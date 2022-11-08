@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Falso',
     question: 'Aposto que você já sabia que eu ia fazer isso, sabia? ',
     btnReply: 'Enviar',
-    reply: 'reply',
+    reply: 'Sim sabia, você ama mais amor!',
     mess: 'Eu sei disso, sabia que você já estava ciente que amo cinquenta vezes mais 🥰. Te amo muito 😘',
     messDesc: 'Se você achou maneiro, clica no botão a seguir:',
     btnAccept: 'Botão a seguir kkk',
