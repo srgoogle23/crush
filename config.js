@@ -1,17 +1,17 @@
 const CONFIG = {
     titleWeb: "Coisas de amor",
-    introTitle: 'Carolina Assis',
-    introDesc: `Introdução`,
-    btnIntro: 'Oi amor!',
-    title: 'Você se apaixonou à primeira vista 🥰',
-    desc: 'Você ficou doida desde o momento em que viu aquele sorriso ',
+    introTitle: 'Para: Carolina Assis, meu amor',
+    introDesc: `Fiz pensando em você, espero que goste!`,
+    btnIntro: 'Ver surpresa',
+    title: 'Você concorda que eu amo cinquenta vezes mais 🥰',
+    desc: 'Ao clicar nos botões a seguir, confirmará quem ama cinquenta vezes mais, verdadeiro para mim e falso para você!',
     btnYes: 'Verdadeiro',
     btnNo: 'Falso',
-    question: 'question',
-    btnReply: 'replybtn',
+    question: 'Aposto que você já sabia que eu ia fazer isso, sabia? ',
+    btnReply: 'Enviar',
     reply: 'reply',
-    mess: 'Eu sei disso 🥰. Te amo muito 😘😘',
-    messDesc: 'Vou buscá-lo hoje às 19h',
-    btnAccept: 'ok',
-    messLink: 'https://wa.me/5531999079939'
+    mess: 'Eu sei disso, sabia que você já estava ciente que amo cinquenta vezes mais 🥰. Te amo muito 😘',
+    messDesc: 'Se você achou maneiro, clica no botão a seguir:',
+    btnAccept: 'Botão a seguir kkk',
+    messLink: 'https://wa.me/5531999079939?text=Eu Carolina amo menos'
 }
